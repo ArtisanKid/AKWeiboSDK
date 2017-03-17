@@ -7,6 +7,7 @@
 //
 
 #import "AKAppDelegate.h"
+#import <AKWeiboSDK/WeiboSDK.h>
 
 @implementation AKAppDelegate
 
