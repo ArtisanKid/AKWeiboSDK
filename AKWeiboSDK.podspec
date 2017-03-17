@@ -37,8 +37,8 @@ TODO: Add long description of the pod here.
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  s.frameworks = 'CoreTelephony','ImageIO','SystemConfiguration'
-  s.libraries = 'sqlite3','z'
+  # s.frameworks = 'CoreTelephony','ImageIO','SystemConfiguration'
+  # s.libraries = 'sqlite3','z'
   # s.dependency 'AFNetworking', '~> 2.3'
 
   s.vendored_libraries = 'AKWeiboSDK/Classes/libWeiboSDK.a'
