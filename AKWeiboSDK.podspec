@@ -31,7 +31,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'AKWeiboSDK/Classes/**/*.{h,m}'
-  s.preserve_paths = 'AKWeiboSDK/Classes/*.{md,pdf}'
+  s.preserve_paths = 'AKWeiboSDK/Classes/*.{txt,md,doc,docx,pdf}'
 
   # s.resource_bundles = {
   #   'AKWeiboSDK' => ['AKWeiboSDK/Assets/*.png']
